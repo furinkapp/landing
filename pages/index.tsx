@@ -95,16 +95,7 @@ export default function App() {
 	return (
 		<Root>
 			<Head>
-				<link rel="preconnect" href="https://fonts.googleapis.com" />
-				<link
-					rel="preconnect"
-					href="https://fonts.gstatic.com"
-					crossOrigin=""
-				/>
-				<link
-					href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap"
-					rel="stylesheet"
-				/>
+				<title>fur.ink &middot; Coming Soon</title>
 			</Head>
 			<GlobalStyle />
 			<Container>

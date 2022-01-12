@@ -64,7 +64,6 @@ export default class MyDocument extends Document {
 						href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap"
 						rel="stylesheet"
 					/>
-					<title>fur.ink &middot; Coming Soon</title>
 				</Head>
 				<body>
 					<Main />
